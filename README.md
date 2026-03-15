@@ -1,7 +1,5 @@
-# aula05
+# Conectando API ViaCep
 
-A new Flutter project.
+App desenvolvido para fins didáticos
 
-## Getting Started
 
-FlutterFlow projects are built to run on the Flutter _stable_ release.
