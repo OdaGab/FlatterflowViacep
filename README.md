@@ -1,6 +1,6 @@
 # Consumindo API ViaCep com menu lateral
 
-🎯 Objetivo do Projeto
+# 🎯 Objetivo do Projeto
 
 Este projeto foi desenvolvido com o objetivo de:
 
@@ -12,7 +12,7 @@ praticar a integração entre interface visual e código Flutter
 
 construir projetos para portfólio de desenvolvimento mobile
 
-📚 Aprendizados
+# 📚 Aprendizados
 
 Durante o desenvolvimento deste projeto foram explorados conceitos como:
 
@@ -24,9 +24,9 @@ organização de estrutura de projetos Flutter
 
 versionamento de código com GitHub
 
-👨‍💻 Autor
+# 👨‍💻 Autor
 
-Gabriel Oda
+Odair Gabriel
 
 GitHub:
 https://github.com/OdaGab
