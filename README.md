@@ -1,10 +1,35 @@
 # Consumindo API ViaCep com menu lateral
 
-A new Flutter project.
+🎯 Objetivo do Projeto
 
-## Getting Started
+Este projeto foi desenvolvido com o objetivo de:
 
-FlutterFlow projects are built to run on the Flutter _stable_ release.
+explorar o desenvolvimento low-code com FlutterFlow
+
+entender o fluxo de criação de aplicativos multiplataforma
+
+praticar a integração entre interface visual e código Flutter
+
+construir projetos para portfólio de desenvolvimento mobile
+
+📚 Aprendizados
+
+Durante o desenvolvimento deste projeto foram explorados conceitos como:
+
+construção de UI com FlutterFlow
+
+fluxo de navegação entre telas
+
+organização de estrutura de projetos Flutter
+
+versionamento de código com GitHub
+
+👨‍💻 Autor
+
+Gabriel Oda
+
+GitHub:
+https://github.com/OdaGab
 
 
 <h2>📱 Screenshot</h2>
