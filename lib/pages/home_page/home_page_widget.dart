@@ -290,7 +290,7 @@ class _HomePageWidgetState extends State<HomePageWidget> {
                         child: Image.network(
                           'https://images.unsplash.com/photo-1619468129361-605ebea04b44?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NTYyMDF8MHwxfHNlYXJjaHwxfHxtYXBzfGVufDB8fHx8MTc3MzQ0NzM3NXww&ixlib=rb-4.1.0&q=80&w=1080',
                           width: 200.0,
-                          height: 257.81,
+                          height: 257.8,
                           fit: BoxFit.cover,
                         ),
                       ),
@@ -332,7 +332,7 @@ class _HomePageWidgetState extends State<HomePageWidget> {
                             });
                             safeSetState(() {
                               _model.textFieldBairroTextController?.text =
-                                  ConCepCall.bairro(
+                                  ConCepCall.cidade(
                                 (_model.apiResultlxx?.jsonBody ?? ''),
                               )!;
                             });

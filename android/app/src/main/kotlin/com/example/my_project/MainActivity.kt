@@ -1,4 +1,4 @@
-package com.mycompany.aula05
+package com.mycompany.viacep
 
 import io.flutter.embedding.android.FlutterActivity
 
